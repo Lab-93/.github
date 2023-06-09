@@ -4,6 +4,8 @@ This space serves as the platform for presenting my main online server, `lab-93.
 ## [Main Site](https://guyyatsu.me)
 As *primary domain controller*, Lab-93 acts as the central nexus point of `guyyatsu.me`; meaning the two are one and the same, _**however**_, `guyyatsu.me` reffers to the _user facing_ side of the domain and `Lab-93` reffers to the _developer facing_ side.  The difference is subtle, but there's a whole different aspect to how you enter the domain.
 
+## [Wiki](https://github.com/Lab-93/.github/wiki)
+
 ## [Packages](https://github.com/guyyatsu/Lab93-Submodules)
 - [`Cryptography Methods Library`](https://github.com/Lab-93/Cryptogram):  
     Wrapper for the standard `cryptography` module, that allows for custom keys for two-way authentication.
